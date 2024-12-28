@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About Me
-I'm a Rigging TD and tool developer. I currently work in vfx and plugin development for sketchup
+I'm a Rigging TD and tool developer. I currently work in vfx and learning webdev
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
